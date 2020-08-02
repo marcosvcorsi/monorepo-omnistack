@@ -9,5 +9,9 @@
     ]
   },
   "author": "Marcos Corsi <marcosvcorsi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.7",
+    "@monorepo-omnistack/eslint-config": "*"
+  }
 }
