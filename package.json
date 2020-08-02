@@ -11,7 +11,10 @@
   "author": "Marcos Corsi <marcosvcorsi@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^3.9.7",
-    "@monorepo-omnistack/eslint-config": "*"
+    "@monorepo-omnistack/eslint-config": "*",
+    "@types/jest": "^26.0.8",
+    "jest": "^26.2.2",
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.7"
   }
 }
